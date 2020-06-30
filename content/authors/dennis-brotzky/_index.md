@@ -4,7 +4,7 @@ bio: 'HoD MFL, MEd@warwickuni, 1st Dan, founder of @blackbeltMFL, the language t
   dojo. Helping teachers grow their pedagogical mojo. @billstevensEDU
 
 '
-avatar: "/images/dd36f71e-0190-4779-b255-7ec8ea67ad82.jpeg"
+avatar: "/images/9db8f2cb-77de-47f8-ac4d-b02eabaec0d5.jpeg"
 featured: true
 social:
 - title: unsplash
